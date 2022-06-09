@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xb323363432d023e3aa11581089f8174a520b8038",
+  "SCAN_LINK": "https://polygonscan.com/address/0xb323363432d023e3aa11581089f8174a520b8038",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "PopWomen",
+  "SYMBOL": "PPW",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.000,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/popwomenbybossclub",
+  "SHOW_BACKGROUND": true
+}
+
